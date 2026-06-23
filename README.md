@@ -1,10 +1,6 @@
 # Firefly III Financial Analytics
 ## Technical Architecture Document
 
-**Version:** 1.0  
-**Status:** Draft  
-**Author:** Data Analytics Team
-
 ---
 
 # 1. Executive Summary
